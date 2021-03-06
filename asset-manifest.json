@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Initial-Innovation-Limited-Job-test/static/css/main.eba7cf82.chunk.css",
+    "main.js": "/Initial-Innovation-Limited-Job-test/static/js/main.040ec982.chunk.js",
+    "main.js.map": "/Initial-Innovation-Limited-Job-test/static/js/main.040ec982.chunk.js.map",
+    "runtime-main.js": "/Initial-Innovation-Limited-Job-test/static/js/runtime-main.0a42bdeb.js",
+    "runtime-main.js.map": "/Initial-Innovation-Limited-Job-test/static/js/runtime-main.0a42bdeb.js.map",
+    "static/js/2.b08cb6d6.chunk.js": "/Initial-Innovation-Limited-Job-test/static/js/2.b08cb6d6.chunk.js",
+    "static/js/2.b08cb6d6.chunk.js.map": "/Initial-Innovation-Limited-Job-test/static/js/2.b08cb6d6.chunk.js.map",
+    "static/js/3.fafb4e55.chunk.js": "/Initial-Innovation-Limited-Job-test/static/js/3.fafb4e55.chunk.js",
+    "static/js/3.fafb4e55.chunk.js.map": "/Initial-Innovation-Limited-Job-test/static/js/3.fafb4e55.chunk.js.map",
+    "index.html": "/Initial-Innovation-Limited-Job-test/index.html",
+    "static/css/main.eba7cf82.chunk.css.map": "/Initial-Innovation-Limited-Job-test/static/css/main.eba7cf82.chunk.css.map",
+    "static/js/2.b08cb6d6.chunk.js.LICENSE.txt": "/Initial-Innovation-Limited-Job-test/static/js/2.b08cb6d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a42bdeb.js",
+    "static/js/2.b08cb6d6.chunk.js",
+    "static/css/main.eba7cf82.chunk.css",
+    "static/js/main.040ec982.chunk.js"
+  ]
+}
